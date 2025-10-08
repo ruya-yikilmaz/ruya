@@ -1,1 +1,1 @@
-# Miuul Ecomm Data Set
+# Ecomm RFM Segmentation
